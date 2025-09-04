@@ -1,3 +1,3 @@
-# Thompsonac4.github.io
+# Austin Thompson Capstone Project
 
-## This is a test
+## This page is a work in progress
