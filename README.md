@@ -1,8 +1,8 @@
 <h1 align="center">Austin Thompson Capstone Project</h1>
 
 <h2 align="center">Capstone - Character Database</h2>
-
-
+[Example output pt1](Images/Report1.png) [Example output pt2](Images/Report2.png)
+[Example CMD pt1](Images/CMD1.png) [Example CMD pt1](Images/CMD2.png)
 
 ## Enhancement Design and Goals
 
