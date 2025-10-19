@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Austin\source\repos\CharacterDatabase\CharacterDatabase\main.cpp(71,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Austin\source\repos\CharacterDatabase\CharacterDatabase\main.cpp(72,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CharacterDatabase.vcxproj -> C:\Users\Austin\source\repos\CharacterDatabase\x64\Debug\CharacterDatabase.exe

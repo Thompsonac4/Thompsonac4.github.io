@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='UTF-8'>
+<title>Character Report</title>
+<style>
+body { background-color: #62544a; color: #c09f7e; font-family: Arial, sans-serif; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+th { background-color: #62544a; }
+.chart-bar { fill: #93a0fe; }
+.chart-label { font-size: 10px; text-anchor: middle; }
+.chart-value { font-size: 10px; text-anchor: middle; fill:#62544a; }
+</style>
+</head>
+<body>
+<h1>Character Database Report</h1>
+<h2>Character Stats</h2>
+<table>
+<tr><th>Name</th><th>Gun DPS</th><th>Health</th></tr>
+<tr><td>Abrams</td><td>52</td><td>720</td></tr>
+<tr><td>Bebop</td><td>656</td><td>800</td></tr>
+<tr><td>Bllly</td><td>76</td><td>740</td></tr>
+<tr><td>Calico</td><td>72</td><td>650</td></tr>
+<tr><td>Doorman</td><td>41</td><td>675</td></tr>
+<tr><td>Drifter</td><td>39</td><td>750</td></tr>
+<tr><td>Dynamo</td><td>44</td><td>800</td></tr>
+<tr><td>Grey Talon</td><td>38</td><td>700</td></tr>
+<tr><td>Haze</td><td>48</td><td>650</td></tr>
+<tr><td>Holliday</td><td>55</td><td>700</td></tr>
+<tr><td>Infernus</td><td>656</td><td>750</td></tr>
+<tr><td>Ivy</td><td>59</td><td>675</td></tr>
+<tr><td>Kelvin</td><td>83</td><td>800</td></tr>
+<tr><td>Lady Geist</td><td>44</td><td>800</td></tr>
+<tr><td>Lash</td><td>47</td><td>700</td></tr>
+<tr><td>McGinnis</td><td>76</td><td>700</td></tr>
+<tr><td>Mina</td><td>28</td><td>580</td></tr>
+<tr><td>Mirage</td><td>39</td><td>650</td></tr>
+<tr><td>Mo & Krill</td><td>56</td><td>850</td></tr>
+<tr><td>Paige</td><td>58</td><td>600</td></tr>
+<tr><td>Paradox</td><td>48</td><td>700</td></tr>
+<tr><td>Pocket</td><td>49</td><td>2000</td></tr>
+<tr><td>Seven</td><td>60</td><td>650</td></tr>
+<tr><td>Shiv</td><td>48</td><td>750</td></tr>
+<tr><td>Sinclair</td><td>46</td><td>700</td></tr>
+<tr><td>Victor</td><td>70</td><td>680</td></tr>
+<tr><td>Vindicta</td><td>49</td><td>675</td></tr>
+<tr><td>Viscous</td><td>47</td><td>700</td></tr>
+<tr><td>Vyper</td><td>90</td><td>700</td></tr>
+<tr><td>Warden</td><td>57</td><td>725</td></tr>
+<tr><td>Wraith</td><td>61</td><td>650</td></tr>
+</table>
+<h2>Gun DPS Chart</h2>
+<svg width='1400' height='300'>
+<rect x='0' y='234' width='25' height='15.8537' class='chart-bar'></rect>
+<text x='12' y='229' class='chart-value'>52</text>
+<text x='12' y='265' class='chart-label'>Abrams</text>
+<rect x='45' y='50' width='25' height='200' class='chart-bar'></rect>
+<text x='57' y='45' class='chart-value'>656</text>
+<text x='57' y='265' class='chart-label'>Bebop</text>
+<rect x='90' y='226' width='25' height='23.1707' class='chart-bar'></rect>
+<text x='102' y='221' class='chart-value'>76</text>
+<text x='102' y='265' class='chart-label'>Bllly</text>
+<rect x='135' y='228' width='25' height='21.9512' class='chart-bar'></rect>
+<text x='147' y='223' class='chart-value'>72</text>
+<text x='147' y='265' class='chart-label'>Calico</text>
+<rect x='180' y='237' width='25' height='12.5' class='chart-bar'></rect>
+<text x='192' y='232' class='chart-value'>41</text>
+<text x='192' y='265' class='chart-label'>Doorman</text>
+<rect x='225' y='238' width='25' height='11.8902' class='chart-bar'></rect>
+<text x='237' y='233' class='chart-value'>39</text>
+<text x='237' y='265' class='chart-label'>Drifter</text>
+<rect x='270' y='236' width='25' height='13.4146' class='chart-bar'></rect>
+<text x='282' y='231' class='chart-value'>44</text>
+<text x='282' y='265' class='chart-label'>Dynamo</text>
+<rect x='315' y='238' width='25' height='11.5854' class='chart-bar'></rect>
+<text x='327' y='233' class='chart-value'>38</text>
+<text x='327' y='265' class='chart-label'>Grey Talon</text>
+<rect x='360' y='235' width='25' height='14.6341' class='chart-bar'></rect>
+<text x='372' y='230' class='chart-value'>48</text>
+<text x='372' y='265' class='chart-label'>Haze</text>
+<rect x='405' y='233' width='25' height='16.7683' class='chart-bar'></rect>
+<text x='417' y='228' class='chart-value'>55</text>
+<text x='417' y='265' class='chart-label'>Holliday</text>
+<rect x='450' y='50' width='25' height='200' class='chart-bar'></rect>
+<text x='462' y='45' class='chart-value'>656</text>
+<text x='462' y='265' class='chart-label'>Infernus</text>
+<rect x='495' y='232' width='25' height='17.9878' class='chart-bar'></rect>
+<text x='507' y='227' class='chart-value'>59</text>
+<text x='507' y='265' class='chart-label'>Ivy</text>
+<rect x='540' y='224' width='25' height='25.3049' class='chart-bar'></rect>
+<text x='552' y='219' class='chart-value'>83</text>
+<text x='552' y='265' class='chart-label'>Kelvin</text>
+<rect x='585' y='236' width='25' height='13.4146' class='chart-bar'></rect>
+<text x='597' y='231' class='chart-value'>44</text>
+<text x='597' y='265' class='chart-label'>Lady Geist</text>
+<rect x='630' y='235' width='25' height='14.3293' class='chart-bar'></rect>
+<text x='642' y='230' class='chart-value'>47</text>
+<text x='642' y='265' class='chart-label'>Lash</text>
+<rect x='675' y='226' width='25' height='23.1707' class='chart-bar'></rect>
+<text x='687' y='221' class='chart-value'>76</text>
+<text x='687' y='265' class='chart-label'>McGinnis</text>
+<rect x='720' y='241' width='25' height='8.53659' class='chart-bar'></rect>
+<text x='732' y='236' class='chart-value'>28</text>
+<text x='732' y='265' class='chart-label'>Mina</text>
+<rect x='765' y='238' width='25' height='11.8902' class='chart-bar'></rect>
+<text x='777' y='233' class='chart-value'>39</text>
+<text x='777' y='265' class='chart-label'>Mirage</text>
+<rect x='810' y='232' width='25' height='17.0732' class='chart-bar'></rect>
+<text x='822' y='227' class='chart-value'>56</text>
+<text x='822' y='265' class='chart-label'>Mo & Krill</text>
+<rect x='855' y='232' width='25' height='17.6829' class='chart-bar'></rect>
+<text x='867' y='227' class='chart-value'>58</text>
+<text x='867' y='265' class='chart-label'>Paige</text>
+<rect x='900' y='235' width='25' height='14.6341' class='chart-bar'></rect>
+<text x='912' y='230' class='chart-value'>48</text>
+<text x='912' y='265' class='chart-label'>Paradox</text>
+<rect x='945' y='235' width='25' height='14.939' class='chart-bar'></rect>
+<text x='957' y='230' class='chart-value'>49</text>
+<text x='957' y='265' class='chart-label'>Pocket</text>
+<rect x='990' y='231' width='25' height='18.2927' class='chart-bar'></rect>
+<text x='1002' y='226' class='chart-value'>60</text>
+<text x='1002' y='265' class='chart-label'>Seven</text>
+<rect x='1035' y='235' width='25' height='14.6341' class='chart-bar'></rect>
+<text x='1047' y='230' class='chart-value'>48</text>
+<text x='1047' y='265' class='chart-label'>Shiv</text>
+<rect x='1080' y='235' width='25' height='14.0244' class='chart-bar'></rect>
+<text x='1092' y='230' class='chart-value'>46</text>
+<text x='1092' y='265' class='chart-label'>Sinclair</text>
+<rect x='1125' y='228' width='25' height='21.3415' class='chart-bar'></rect>
+<text x='1137' y='223' class='chart-value'>70</text>
+<text x='1137' y='265' class='chart-label'>Victor</text>
+<rect x='1170' y='235' width='25' height='14.939' class='chart-bar'></rect>
+<text x='1182' y='230' class='chart-value'>49</text>
+<text x='1182' y='265' class='chart-label'>Vindicta</text>
+<rect x='1215' y='235' width='25' height='14.3293' class='chart-bar'></rect>
+<text x='1227' y='230' class='chart-value'>47</text>
+<text x='1227' y='265' class='chart-label'>Viscous</text>
+<rect x='1260' y='222' width='25' height='27.439' class='chart-bar'></rect>
+<text x='1272' y='217' class='chart-value'>90</text>
+<text x='1272' y='265' class='chart-label'>Vyper</text>
+<rect x='1305' y='232' width='25' height='17.378' class='chart-bar'></rect>
+<text x='1317' y='227' class='chart-value'>57</text>
+<text x='1317' y='265' class='chart-label'>Warden</text>
+<rect x='1350' y='231' width='25' height='18.5976' class='chart-bar'></rect>
+<text x='1362' y='226' class='chart-value'>61</text>
+<text x='1362' y='265' class='chart-label'>Wraith</text>
+</svg>
+</body>
+</html>

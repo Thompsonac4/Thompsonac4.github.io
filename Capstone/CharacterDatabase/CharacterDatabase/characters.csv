@@ -1,0 +1,33 @@
+Name,Ability 1,Ability 2,Ability 3,Ability 4,DPS,Bullet DMG,Ammo,Bullet PS,Light Melee,Heavy Melee,Max Health,Health Regen,Bullet Resist,Spirit Resist,Move Speed,Sprint Speed,Stamina
+Abrams,Siphon Life,Shoulder Charge,Infernal Resilience,Seismic Impact,52.86,3.7,9,1.59,50,116,720,1.5,0,0,6.5,2,3
+Bebop,Exploding Uppercut,Sticky Bomb,Hook,Hyper Beam,656,4.77,66,11.9,63,116,800,1.5,0,0,6.5,2,2
+Bllly,Bashdown,Rising Ram,Blasted,Chain Gang,76,6.5,30,11.8,50,116,740,2.5,0,0,7.29,2,3
+Calico,Gloom Bombs,Leaping Slash,Ava,Return to Shadows,72,1.9,10,4.76,63,116,650,2,0,0,7.29,2,3
+Doorman,Call Bell,Doorway,Luggage Cart,Hotel Guest,41,28,8,1.47,50,116,675,2,0,0,8,2,3
+Drifter,Rend,Stalker's Mark,Bloodscent,Ethernal Night,39,20,12,1.96,52,120,750,2.5,0,0,7.01,2,3
+Dynamo,Kinetic Pulse,Quantum Entanglement,Rejuvenating Aurora,Singularity,44,11.7,18,3.81,50,116,800,2,0,0,6.81,2,3
+Grey Talon,Charged Shot,Rain of Arrows,Spirit Snare,Guided Owl,38,22,17,1.73,50,116,700,1.5,0,0,6.3,2,4
+Haze,Sleep Dagger,Smoke Bomb,Fixation,Bullet Dance,48,5.04,25,9.52,50,116,650,2,0,0,8.3,2,3
+Holliday,Powder Keg,Bounce Pad,Crackshot,Spirit Lasso,55,22,10,2.12,50,116,700,2,0,0,8.3,2,2
+Infernus,Napalm,Flame Dash,Afterburn,Concussive Combustion,656,5.94,27,9.52,50,116,750,2,0,0,6.81,2,3
+Ivy,Kudzu Bomb,Watcher's Covenant,Stone Form,Air Drop,59,4.4,33,13.6,43,99,675,2,0,0,7.29,2,4
+Kelvin,Frost Grenade,Ice Path,Arctic Beam,Frozen Shelter,83.72,18.9,15,3.81,63,116,800,2,0,0,6.81,1.5,3
+Lady Geist,Essence Bomb,Life Drain,Malice,Soul Exchange,44,21,10,2.12,50,116,800,1,0,0,6.3,3,3
+Lash,Ground Strike,Grapple,Flog,Death Slam,47,8.1,29,5.83,50,116,700,2,0,10,7.29,2.5,3
+McGinnis,Mini Turret,Medicinal Specter,Spectral Wall,Heavy Barrage,76,6.44,66,11.9,50,116,700,2,0,0,6.81,2,2
+Mina,Rake,Sanguine Retreat,Love Bites,Nox Nostra,28,7,12,3.97,50,116,580,2,0,0,6.71,2,2
+Mirage,Fire Scarabs,Tornado,Djinn's Mark,Traveler,39,14.6,16,2.72,50,116,650,2,0,0,7.29,2,3
+Mo & Krill,Scorn,Burrow,Sand Blast,Combo,56,2.7,20,5.29,50,116,850,3,0,0,8.1,2,3
+Paige,Conjure Dragon,Defend and Fight!,Captivating Read,Rallying Charge,58,35,14,1.67,42,120,600,2,0,0,7.01,4,3
+Paradox,Pulse Grenade,Time Wall,Kinetic Carbine,Paradoxical Swap,48,6.48,40,7.56,50,116,700,2,0,0,6.81,2,3
+Pocket,Barrage,Flying Cloak,Enchanter's Satchel,Affliction,49,4.1,11,1.9,60,116,700,2,0,-15,7.29,2,3
+Seven,Lightning Ball,Static Charge,Power Surge,Storm Cloud,60,10.4,29,5.83,50,116,650,1,0,0,6.8,1,3
+Shiv,Serrated Knives,Slice and Dice,Bloodletting,Killing Blow,48,4.6,10,1.81,50,116,750,2,0,0,6.8,2,3
+Sinclair,Vexing Bolt,Spectral Assistant,Rabbit Hex,Audience Participation,46,17,16,2.72,50,116,700,3,0,0,7.3,0.5,3
+Victor,Pain Battery,Jumpstart,Aura of Suffering,Shocking Reanimation,70,12,24,5.85,50,116,680,1.5,0,0,6.3,1.5,3
+Vindicta,Stake,Flight,Crow Familiar,Assassinate,49,11.4,22,4.33,50,116,675,2,0,0,8,2,2
+Viscous,Splatter,The Cube,Puddle Punch,Goo Ball,47,9.9,20,4.76,48,116,700,2,0,0,7.29,2,3
+Vyper,Screwjab Dagger,Lethal Venom,Slither,Petrifying Bola,90,6.3,24,14.3,50,116,700,2,0,0,7.01,2,4
+Warden,Alchemical Flask,Willpower,Binding Word,Last Stand,57,15,17,2.91,50,116,725,3,0,0,6.3,2,3
+Wraith,Card Trick,Project Mind,Full Auto,Telekinesis,61.54,5.11,52,10.6,50,116,650,2,0,0,7.29,2,3
+Yamato,Power Slash,Flying Strike,Crimson Slash,Shadow Transformation,60,5.08,12,3.8,55,128,650,2,0,0,8.31,2,3
