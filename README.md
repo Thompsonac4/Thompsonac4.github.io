@@ -2,7 +2,7 @@
 
 <h2 align="center">Capstone - Character Database</h2>
 
-## [---Capstone Project---](Capstone/CharacterDatabase)
+## [---Capstone Project---](Capstone/CharacterDatabase/CharacterDatabase)
 ## Example Outputs
 
 ![Example Output](Images/Report1.png)
