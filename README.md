@@ -1,10 +1,14 @@
 <h1 align="center">Austin Thompson Capstone Project</h1>
 
-<h2 align="center">[Capstone - Character Database](Capstone/CharacterDatabase)</h2>
+<h2 align="center">Capstone - Character Database</h2>
+
+## [---Capstone Project---](Capstone/CharacterDatabase)
 ## Example Outputs
 
-![Example Output](Images/Report1.png) ![CMD1](Images/CMD1.png)
-![Example Output2](Images/Report2.png) ![CMD2](Images/CMD2.png)
+![Example Output](Images/Report1.png)
+![Example Output2](Images/Report2.png)
+![CMD1](Images/CMD1.png)
+ ![CMD2](Images/CMD2.png)
 ## Enhancement Design and Goals
 
 ## Artifact - [Software Design and Engineering](Artifacts/crud.py)
