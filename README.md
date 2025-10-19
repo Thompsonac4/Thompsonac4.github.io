@@ -1,10 +1,12 @@
 <h1 align="center">Austin Thompson Capstone Project</h1>
 
-<h2 align="center">Capstone - Character Database</h2>
+<h2 align="center">[Capstone - Character Database](Capstone/CharacterDatabase)</h2>
+## Example Outputs
 
-
+![Example Output](Images/Report1.png) ![CMD1](Images/CMD1.png)
+![Example Output2](Images/Report2.png) ![CMD2](Images/CMD2.png)
 ## Enhancement Design and Goals
-![ImageTest](Images/Report1.png)
+
 ## Artifact - [Software Design and Engineering](Artifacts/crud.py)
   The enhancement is a C++ program that implements the CRUD functionality for database management and changed to handle character and their stats. Each character has their own stat sheets with different information for weapons and abilities. This project is based on the original crud artifact from CS 340 Python CRUD program that connected to a MongoDB database for an animal shelter. The enhancement to C++ was completed to demonstrate advanced software engineering, algorithms, and data structure skills. This enhancement was chosen for my ePortfolio because it clearly demonstrates my ability to design and implement a structured robust software solution.  
 
