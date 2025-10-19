@@ -2,7 +2,7 @@
 
 <h2 align="center">Capstone - Character Database</h2>
 
-## [---Capstone Project---](Capstone/CharacterDatabase/CharacterDatabase)
+## [Capstone Project](Capstone/CharacterDatabase/CharacterDatabase)
  Above is the Finalized Capstone Project. It is a Character Database based on previous projects combining both the CRUD functionality from CS 340 and the Binary Search Tree from CS 300. It stores its data with an SQLite database which is then passed into a binary search tree for more efficent sorting, it can also be managed through the CRUD functions. Finally once all the data is changed and updated, the program will create an html file like below and give you a report of character stats as well as a chart for character damage.
 ## Example Outputs
 
