@@ -1,3 +1,11 @@
 # Austin Thompson Capstone Project
 
-## This page is a work in progress
+## Enhancement Design and Goals
+
+##Artifact - Software Design and Engineering
+
+##Artifact - Algorithms and Data Structures
+
+##Artifact - Databases
+
+##Self Assessment
